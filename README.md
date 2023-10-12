@@ -20,3 +20,6 @@ made changes to the file!
 #abhirnaik Resume
 
 Education: Northeastern Uni
+Major: Comp Sci
+Expected Graduation Date: May 2027
+
